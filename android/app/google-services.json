@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "599753769102",
+    "project_id": "lanzyinotes",
+    "storage_bucket": "lanzyinotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599753769102:android:625f6f8aea4c8ae2c2c9df",
+        "android_client_info": {
+          "package_name": "se.lanzyi.kbine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599753769102-8gag9kiat90q519bo2loo39dljrdp9ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqodzqEBw4P5_nF8L3aIUNJ9vZmQnFb0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599753769102-8gag9kiat90q519bo2loo39dljrdp9ms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599753769102-5dajhn8cc7lt742n89jmr5i9ri12gl1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.lanzyi.kbine"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599753769102:android:656945c323a603cac2c9df",
+        "android_client_info": {
+          "package_name": "se.lanzyi.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599753769102-8gag9kiat90q519bo2loo39dljrdp9ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqodzqEBw4P5_nF8L3aIUNJ9vZmQnFb0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599753769102-8gag9kiat90q519bo2loo39dljrdp9ms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "599753769102-5dajhn8cc7lt742n89jmr5i9ri12gl1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.lanzyi.kbine"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
